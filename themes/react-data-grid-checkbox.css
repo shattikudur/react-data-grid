@@ -25,8 +25,8 @@
 }
 
 .react-grid-checkbox:checked + .react-grid-checkbox-label:before {
-    background: #005295;
-    box-shadow: inset 0px 0px 0px 4px #fff;
+  /*  background: #005295;
+    box-shadow: inset 0px 0px 0px 4px #fff;*/
 }
 
 .react-grid-checkbox:focus + .react-grid-checkbox-label, .radio-custom:focus + .radio-custom-label {
